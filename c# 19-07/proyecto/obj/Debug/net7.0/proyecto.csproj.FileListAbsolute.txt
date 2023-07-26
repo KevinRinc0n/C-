@@ -1,0 +1,15 @@
+/home/arteN01-047/Desktop/c#/proyecto/bin/Debug/net7.0/proyecto
+/home/arteN01-047/Desktop/c#/proyecto/bin/Debug/net7.0/proyecto.deps.json
+/home/arteN01-047/Desktop/c#/proyecto/bin/Debug/net7.0/proyecto.runtimeconfig.json
+/home/arteN01-047/Desktop/c#/proyecto/bin/Debug/net7.0/proyecto.dll
+/home/arteN01-047/Desktop/c#/proyecto/bin/Debug/net7.0/proyecto.pdb
+/home/arteN01-047/Desktop/c#/proyecto/obj/Debug/net7.0/proyecto.csproj.AssemblyReference.cache
+/home/arteN01-047/Desktop/c#/proyecto/obj/Debug/net7.0/proyecto.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-047/Desktop/c#/proyecto/obj/Debug/net7.0/proyecto.AssemblyInfoInputs.cache
+/home/arteN01-047/Desktop/c#/proyecto/obj/Debug/net7.0/proyecto.AssemblyInfo.cs
+/home/arteN01-047/Desktop/c#/proyecto/obj/Debug/net7.0/proyecto.csproj.CoreCompileInputs.cache
+/home/arteN01-047/Desktop/c#/proyecto/obj/Debug/net7.0/proyecto.dll
+/home/arteN01-047/Desktop/c#/proyecto/obj/Debug/net7.0/refint/proyecto.dll
+/home/arteN01-047/Desktop/c#/proyecto/obj/Debug/net7.0/proyecto.pdb
+/home/arteN01-047/Desktop/c#/proyecto/obj/Debug/net7.0/proyecto.genruntimeconfig.cache
+/home/arteN01-047/Desktop/c#/proyecto/obj/Debug/net7.0/ref/proyecto.dll

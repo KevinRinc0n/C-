@@ -1,0 +1,15 @@
+/home/arteN01-047/Desktop/c# 25-07/bin/Debug/net7.0/c# 25-07
+/home/arteN01-047/Desktop/c# 25-07/bin/Debug/net7.0/c# 25-07.deps.json
+/home/arteN01-047/Desktop/c# 25-07/bin/Debug/net7.0/c# 25-07.runtimeconfig.json
+/home/arteN01-047/Desktop/c# 25-07/bin/Debug/net7.0/c# 25-07.dll
+/home/arteN01-047/Desktop/c# 25-07/bin/Debug/net7.0/c# 25-07.pdb
+/home/arteN01-047/Desktop/c# 25-07/obj/Debug/net7.0/c# 25-07.csproj.AssemblyReference.cache
+/home/arteN01-047/Desktop/c# 25-07/obj/Debug/net7.0/c# 25-07.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-047/Desktop/c# 25-07/obj/Debug/net7.0/c# 25-07.AssemblyInfoInputs.cache
+/home/arteN01-047/Desktop/c# 25-07/obj/Debug/net7.0/c# 25-07.AssemblyInfo.cs
+/home/arteN01-047/Desktop/c# 25-07/obj/Debug/net7.0/c# 25-07.csproj.CoreCompileInputs.cache
+/home/arteN01-047/Desktop/c# 25-07/obj/Debug/net7.0/c# 25-07.dll
+/home/arteN01-047/Desktop/c# 25-07/obj/Debug/net7.0/refint/c# 25-07.dll
+/home/arteN01-047/Desktop/c# 25-07/obj/Debug/net7.0/c# 25-07.pdb
+/home/arteN01-047/Desktop/c# 25-07/obj/Debug/net7.0/c# 25-07.genruntimeconfig.cache
+/home/arteN01-047/Desktop/c# 25-07/obj/Debug/net7.0/ref/c# 25-07.dll

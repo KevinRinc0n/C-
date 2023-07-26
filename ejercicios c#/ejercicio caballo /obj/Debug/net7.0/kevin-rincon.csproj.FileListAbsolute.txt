@@ -1,0 +1,15 @@
+/home/arteN01-047/Desktop/kevin-rincon/bin/Debug/net7.0/kevin-rincon
+/home/arteN01-047/Desktop/kevin-rincon/bin/Debug/net7.0/kevin-rincon.deps.json
+/home/arteN01-047/Desktop/kevin-rincon/bin/Debug/net7.0/kevin-rincon.runtimeconfig.json
+/home/arteN01-047/Desktop/kevin-rincon/bin/Debug/net7.0/kevin-rincon.dll
+/home/arteN01-047/Desktop/kevin-rincon/bin/Debug/net7.0/kevin-rincon.pdb
+/home/arteN01-047/Desktop/kevin-rincon/obj/Debug/net7.0/kevin-rincon.csproj.AssemblyReference.cache
+/home/arteN01-047/Desktop/kevin-rincon/obj/Debug/net7.0/kevin-rincon.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-047/Desktop/kevin-rincon/obj/Debug/net7.0/kevin-rincon.AssemblyInfoInputs.cache
+/home/arteN01-047/Desktop/kevin-rincon/obj/Debug/net7.0/kevin-rincon.AssemblyInfo.cs
+/home/arteN01-047/Desktop/kevin-rincon/obj/Debug/net7.0/kevin-rincon.csproj.CoreCompileInputs.cache
+/home/arteN01-047/Desktop/kevin-rincon/obj/Debug/net7.0/kevin-rincon.dll
+/home/arteN01-047/Desktop/kevin-rincon/obj/Debug/net7.0/refint/kevin-rincon.dll
+/home/arteN01-047/Desktop/kevin-rincon/obj/Debug/net7.0/kevin-rincon.pdb
+/home/arteN01-047/Desktop/kevin-rincon/obj/Debug/net7.0/kevin-rincon.genruntimeconfig.cache
+/home/arteN01-047/Desktop/kevin-rincon/obj/Debug/net7.0/ref/kevin-rincon.dll
