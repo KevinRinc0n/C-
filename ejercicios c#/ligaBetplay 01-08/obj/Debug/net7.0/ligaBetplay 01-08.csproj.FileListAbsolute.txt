@@ -1,0 +1,5 @@
+/home/arteN01-047/Desktop/C#/ejercicios c#/ligaBetplay 01-08/obj/Debug/net7.0/ligaBetplay 01-08.csproj.AssemblyReference.cache
+/home/arteN01-047/Desktop/C#/ejercicios c#/ligaBetplay 01-08/obj/Debug/net7.0/ligaBetplay 01-08.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-047/Desktop/C#/ejercicios c#/ligaBetplay 01-08/obj/Debug/net7.0/ligaBetplay 01-08.AssemblyInfoInputs.cache
+/home/arteN01-047/Desktop/C#/ejercicios c#/ligaBetplay 01-08/obj/Debug/net7.0/ligaBetplay 01-08.AssemblyInfo.cs
+/home/arteN01-047/Desktop/C#/ejercicios c#/ligaBetplay 01-08/obj/Debug/net7.0/ligaBetplay 01-08.csproj.CoreCompileInputs.cache
