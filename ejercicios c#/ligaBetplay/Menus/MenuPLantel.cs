@@ -2,7 +2,7 @@ namespace ligaBetplay.Menus;
 
     public class MenuPlantel
     {
-        public double menuPlantel()
+        public int menuPlantel()
         {
             Console.Clear();
             Console.WriteLine("\n---------------------------------- REGISTRO PLANTEL ----------------------------------\n");
@@ -12,6 +12,6 @@ namespace ligaBetplay.Menus;
             Console.WriteLine("1.4 REGISTRO MASAJISTA");
             Console.WriteLine("1.5 VENTA DE JUGADOR");
             Console.WriteLine("1.6 REGRESAR AL MENU PRINCIPAL");
-            return Convert.ToDouble(Console.ReadLine());
+            return Convert.ToInt32(Console.ReadLine());
         }
     }  

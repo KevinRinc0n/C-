@@ -20,5 +20,10 @@ namespace ligaBetplay.Clases
             this.entrenadores = new List<Entrenador>();
             this.masajistas = new List<Masajista>();
         }
+
+        public void consultarEquipo()
+        {
+            
+        }
     }
 }

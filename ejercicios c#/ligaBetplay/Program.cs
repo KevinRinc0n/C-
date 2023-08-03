@@ -2,8 +2,9 @@
 
 class Program
 {
-    static void Main()
+    private static void Main(string[] args)
     {
+        List<Liga> Ligas = new List<Liga>(); 
         int opcion; 
         MainMenu menuPrincipal = new MainMenu();
 
@@ -14,7 +15,7 @@ class Program
             switch (opcion)
             {
                 case 1:
-                    double opcionPlantel;
+                    int opcionPlantel;
                     MenuPlantel menuPlantel = new MenuPlantel();
 
                     do
@@ -23,26 +24,39 @@ class Program
 
                         switch (opcionPlantel)
                          {
-                            case 1.1:
-                                registroEquipo();
+                            case 1:
+                                Liga ligabuscar= new Liga();
+                                Liga opcionliga=ligabuscar.buscarLiga(Ligas);
+                                Console.WriteLine(opcionliga.nombre);
+                                Equipo equipo = new Equipo();
+                                Equipo nuevoequipo = equipo.agregarEquipo();
+                                Console.WriteLine(nuevoequipo.nombre);
+                                opcionliga.EquiposDeLiga.Add(nuevoequipo);;
                                 break;
-                            case 1.2:
-                                registroJugador();
+                            case 2:
+                                int opcionBuscar = 0;
+                                MenuConsultaDatos menuuConsultaDatos = new MenuConsultaDatos ();
+                                do
+                                {
+                                    opcionPlantel = menuuConsultaDatos.menuConsultaDatos();
+                                } while (opcionBuscar != 5);
                                 break;
-                            case 1.3:
-                                registroEntrenador();
+                            case 3:
+                                Liga liga = new Liga();
+                                Ligas.Add(liga.agregarLiga());
+                                liga.mostrarLigas(Ligas);
                                 break;
-                            case 1.4:
+                            case 4:
                                 registroMasajista();
                                 break;
-                            case 1.5:
+                            case 5:
                                 ventaJuagdor();
                                 break;
-                            case 1.6:
+                            case 6:
                                 menuPrincipal.menu();
                                 break;                    
                         }
-                    } while (opcionEquipo != 1.6);
+                    } while (opcionEquipo != 6);
                     break;
 
                 case 2:
