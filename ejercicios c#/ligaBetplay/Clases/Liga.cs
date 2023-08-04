@@ -13,7 +13,7 @@ namespace ligaBetplay.Clases
             this.nombre = nombre;
         }
 
-         public int Id
+        public int Id 
         {
             get { return this.id; }
             set { this.id = value; }

@@ -2,7 +2,7 @@ namespace ligaBetplay.Clases
 {
     public class Equipo
     {
-        public string nombre { get; set; }
+        public string nombre { get; set; } 
 
         public List<string> propietarios { get; set; }
 
