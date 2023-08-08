@@ -1,0 +1,15 @@
+D:\Users\Usuario\Desktop\ejercicioAutomotriz\obj\Debug\net7.0\ejercicioAutomotriz.csproj.AssemblyReference.cache
+D:\Users\Usuario\Desktop\ejercicioAutomotriz\obj\Debug\net7.0\ejercicioAutomotriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Usuario\Desktop\ejercicioAutomotriz\obj\Debug\net7.0\ejercicioAutomotriz.AssemblyInfoInputs.cache
+D:\Users\Usuario\Desktop\ejercicioAutomotriz\obj\Debug\net7.0\ejercicioAutomotriz.AssemblyInfo.cs
+D:\Users\Usuario\Desktop\ejercicioAutomotriz\obj\Debug\net7.0\ejercicioAutomotriz.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Desktop\ejercicioAutomotriz\bin\Debug\net7.0\ejercicioAutomotriz.exe
+D:\Users\Usuario\Desktop\ejercicioAutomotriz\bin\Debug\net7.0\ejercicioAutomotriz.deps.json
+D:\Users\Usuario\Desktop\ejercicioAutomotriz\bin\Debug\net7.0\ejercicioAutomotriz.runtimeconfig.json
+D:\Users\Usuario\Desktop\ejercicioAutomotriz\bin\Debug\net7.0\ejercicioAutomotriz.dll
+D:\Users\Usuario\Desktop\ejercicioAutomotriz\bin\Debug\net7.0\ejercicioAutomotriz.pdb
+D:\Users\Usuario\Desktop\ejercicioAutomotriz\obj\Debug\net7.0\ejercicioAutomotriz.dll
+D:\Users\Usuario\Desktop\ejercicioAutomotriz\obj\Debug\net7.0\refint\ejercicioAutomotriz.dll
+D:\Users\Usuario\Desktop\ejercicioAutomotriz\obj\Debug\net7.0\ejercicioAutomotriz.pdb
+D:\Users\Usuario\Desktop\ejercicioAutomotriz\obj\Debug\net7.0\ejercicioAutomotriz.genruntimeconfig.cache
+D:\Users\Usuario\Desktop\ejercicioAutomotriz\obj\Debug\net7.0\ref\ejercicioAutomotriz.dll
