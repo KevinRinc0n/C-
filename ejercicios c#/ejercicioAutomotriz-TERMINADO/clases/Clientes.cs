@@ -1,6 +1,6 @@
 namespace ejercicioAutomotriz.clases
 {
-    public class Clientes : Persona 
+    public class Clientes : Persona  
     {
         public string email { get; set; }
         public string fechaRegistro { get; set; }

@@ -1,7 +1,7 @@
 namespace ejercicioAutomotriz.menus;
 
 public class MainMenu
-{
+{ 
     public MainMenu() { }
 
     public int mostrarMenu()

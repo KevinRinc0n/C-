@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Usuario\\Desktop\\ejercicioAutomotriz\\ejercicioAutomotriz.csproj": {}
+    "/home/arteN01-047/Desktop/C#/C--4/ejercicios c#/ejercicioAutomotriz-TERMINADO/ejercicioAutomotriz.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Usuario\\Desktop\\ejercicioAutomotriz\\ejercicioAutomotriz.csproj": {
+    "/home/arteN01-047/Desktop/C#/C--4/ejercicios c#/ejercicioAutomotriz-TERMINADO/ejercicioAutomotriz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Usuario\\Desktop\\ejercicioAutomotriz\\ejercicioAutomotriz.csproj",
+        "projectUniqueName": "/home/arteN01-047/Desktop/C#/C--4/ejercicios c#/ejercicioAutomotriz-TERMINADO/ejercicioAutomotriz.csproj",
         "projectName": "ejercicioAutomotriz",
-        "projectPath": "D:\\Users\\Usuario\\Desktop\\ejercicioAutomotriz\\ejercicioAutomotriz.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Usuario\\Desktop\\ejercicioAutomotriz\\obj\\",
+        "projectPath": "/home/arteN01-047/Desktop/C#/C--4/ejercicios c#/ejercicioAutomotriz-TERMINADO/ejercicioAutomotriz.csproj",
+        "packagesPath": "/home/arteN01-047/.nuget/packages/",
+        "outputPath": "/home/arteN01-047/Desktop/C#/C--4/ejercicios c#/ejercicioAutomotriz-TERMINADO/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/arteN01-047/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
         }
       }
     }

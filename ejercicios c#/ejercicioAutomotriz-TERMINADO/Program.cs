@@ -72,7 +72,7 @@ internal class Program
                                 empleadoBuscar = empleadoBuscar.buscarEmpleado(vehiculosRepuesto.Empleadoss);
                                 Repuesto repuestoAgregar = new Repuesto();
                                 repuestoAgregar = repuestoAgregar.repuestoAgregar();
-                                repuestoAgregar.Repuestoss.Add(repuestoAgregar);
+                                empleadoBuscar.Repuestoss.Add(repuestoAgregar);
                                 break;
 
                             default:

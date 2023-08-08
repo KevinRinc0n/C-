@@ -1,6 +1,6 @@
 namespace ejercicioAutomotriz.menus;
 
-public class MenuAgregar
+public class MenuAgregar 
 {
     public MenuAgregar() { }
 

@@ -1,15 +1,30 @@
-D:\Users\Usuario\Desktop\ejercicioAutomotriz\obj\Debug\net7.0\ejercicioAutomotriz.csproj.AssemblyReference.cache
-D:\Users\Usuario\Desktop\ejercicioAutomotriz\obj\Debug\net7.0\ejercicioAutomotriz.GeneratedMSBuildEditorConfig.editorconfig
-D:\Users\Usuario\Desktop\ejercicioAutomotriz\obj\Debug\net7.0\ejercicioAutomotriz.AssemblyInfoInputs.cache
-D:\Users\Usuario\Desktop\ejercicioAutomotriz\obj\Debug\net7.0\ejercicioAutomotriz.AssemblyInfo.cs
-D:\Users\Usuario\Desktop\ejercicioAutomotriz\obj\Debug\net7.0\ejercicioAutomotriz.csproj.CoreCompileInputs.cache
-D:\Users\Usuario\Desktop\ejercicioAutomotriz\bin\Debug\net7.0\ejercicioAutomotriz.exe
-D:\Users\Usuario\Desktop\ejercicioAutomotriz\bin\Debug\net7.0\ejercicioAutomotriz.deps.json
-D:\Users\Usuario\Desktop\ejercicioAutomotriz\bin\Debug\net7.0\ejercicioAutomotriz.runtimeconfig.json
-D:\Users\Usuario\Desktop\ejercicioAutomotriz\bin\Debug\net7.0\ejercicioAutomotriz.dll
-D:\Users\Usuario\Desktop\ejercicioAutomotriz\bin\Debug\net7.0\ejercicioAutomotriz.pdb
-D:\Users\Usuario\Desktop\ejercicioAutomotriz\obj\Debug\net7.0\ejercicioAutomotriz.dll
-D:\Users\Usuario\Desktop\ejercicioAutomotriz\obj\Debug\net7.0\refint\ejercicioAutomotriz.dll
-D:\Users\Usuario\Desktop\ejercicioAutomotriz\obj\Debug\net7.0\ejercicioAutomotriz.pdb
-D:\Users\Usuario\Desktop\ejercicioAutomotriz\obj\Debug\net7.0\ejercicioAutomotriz.genruntimeconfig.cache
-D:\Users\Usuario\Desktop\ejercicioAutomotriz\obj\Debug\net7.0\ref\ejercicioAutomotriz.dll
+D:/Users/Usuario/Desktop/ejercicioAutomotriz/obj/Debug/net7.0/ejercicioAutomotriz.csproj.AssemblyReference.cache
+D:/Users/Usuario/Desktop/ejercicioAutomotriz/obj/Debug/net7.0/ejercicioAutomotriz.GeneratedMSBuildEditorConfig.editorconfig
+D:/Users/Usuario/Desktop/ejercicioAutomotriz/obj/Debug/net7.0/ejercicioAutomotriz.AssemblyInfoInputs.cache
+D:/Users/Usuario/Desktop/ejercicioAutomotriz/obj/Debug/net7.0/ejercicioAutomotriz.AssemblyInfo.cs
+D:/Users/Usuario/Desktop/ejercicioAutomotriz/obj/Debug/net7.0/ejercicioAutomotriz.csproj.CoreCompileInputs.cache
+D:/Users/Usuario/Desktop/ejercicioAutomotriz/bin/Debug/net7.0/ejercicioAutomotriz.exe
+D:/Users/Usuario/Desktop/ejercicioAutomotriz/bin/Debug/net7.0/ejercicioAutomotriz.deps.json
+D:/Users/Usuario/Desktop/ejercicioAutomotriz/bin/Debug/net7.0/ejercicioAutomotriz.runtimeconfig.json
+D:/Users/Usuario/Desktop/ejercicioAutomotriz/bin/Debug/net7.0/ejercicioAutomotriz.dll
+D:/Users/Usuario/Desktop/ejercicioAutomotriz/bin/Debug/net7.0/ejercicioAutomotriz.pdb
+D:/Users/Usuario/Desktop/ejercicioAutomotriz/obj/Debug/net7.0/ejercicioAutomotriz.dll
+D:/Users/Usuario/Desktop/ejercicioAutomotriz/obj/Debug/net7.0/refint/ejercicioAutomotriz.dll
+D:/Users/Usuario/Desktop/ejercicioAutomotriz/obj/Debug/net7.0/ejercicioAutomotriz.pdb
+D:/Users/Usuario/Desktop/ejercicioAutomotriz/obj/Debug/net7.0/ejercicioAutomotriz.genruntimeconfig.cache
+D:/Users/Usuario/Desktop/ejercicioAutomotriz/obj/Debug/net7.0/ref/ejercicioAutomotriz.dll
+/home/arteN01-047/Desktop/C#/C--4/ejercicios c#/ejercicioAutomotriz-TERMINADO/bin/Debug/net7.0/ejercicioAutomotriz
+/home/arteN01-047/Desktop/C#/C--4/ejercicios c#/ejercicioAutomotriz-TERMINADO/bin/Debug/net7.0/ejercicioAutomotriz.deps.json
+/home/arteN01-047/Desktop/C#/C--4/ejercicios c#/ejercicioAutomotriz-TERMINADO/bin/Debug/net7.0/ejercicioAutomotriz.runtimeconfig.json
+/home/arteN01-047/Desktop/C#/C--4/ejercicios c#/ejercicioAutomotriz-TERMINADO/bin/Debug/net7.0/ejercicioAutomotriz.dll
+/home/arteN01-047/Desktop/C#/C--4/ejercicios c#/ejercicioAutomotriz-TERMINADO/bin/Debug/net7.0/ejercicioAutomotriz.pdb
+/home/arteN01-047/Desktop/C#/C--4/ejercicios c#/ejercicioAutomotriz-TERMINADO/obj/Debug/net7.0/ejercicioAutomotriz.csproj.AssemblyReference.cache
+/home/arteN01-047/Desktop/C#/C--4/ejercicios c#/ejercicioAutomotriz-TERMINADO/obj/Debug/net7.0/ejercicioAutomotriz.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-047/Desktop/C#/C--4/ejercicios c#/ejercicioAutomotriz-TERMINADO/obj/Debug/net7.0/ejercicioAutomotriz.AssemblyInfoInputs.cache
+/home/arteN01-047/Desktop/C#/C--4/ejercicios c#/ejercicioAutomotriz-TERMINADO/obj/Debug/net7.0/ejercicioAutomotriz.AssemblyInfo.cs
+/home/arteN01-047/Desktop/C#/C--4/ejercicios c#/ejercicioAutomotriz-TERMINADO/obj/Debug/net7.0/ejercicioAutomotriz.csproj.CoreCompileInputs.cache
+/home/arteN01-047/Desktop/C#/C--4/ejercicios c#/ejercicioAutomotriz-TERMINADO/obj/Debug/net7.0/ejercicioAutomotriz.dll
+/home/arteN01-047/Desktop/C#/C--4/ejercicios c#/ejercicioAutomotriz-TERMINADO/obj/Debug/net7.0/refint/ejercicioAutomotriz.dll
+/home/arteN01-047/Desktop/C#/C--4/ejercicios c#/ejercicioAutomotriz-TERMINADO/obj/Debug/net7.0/ejercicioAutomotriz.pdb
+/home/arteN01-047/Desktop/C#/C--4/ejercicios c#/ejercicioAutomotriz-TERMINADO/obj/Debug/net7.0/ejercicioAutomotriz.genruntimeconfig.cache
+/home/arteN01-047/Desktop/C#/C--4/ejercicios c#/ejercicioAutomotriz-TERMINADO/obj/Debug/net7.0/ref/ejercicioAutomotriz.dll

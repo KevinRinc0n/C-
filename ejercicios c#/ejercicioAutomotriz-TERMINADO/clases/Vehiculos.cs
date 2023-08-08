@@ -5,7 +5,7 @@ namespace ejercicioAutomotriz.clases
         public string placa { get; set; }
         public string modelo { get; set; }
         public string marca { get; set; }
-        public string color { get; set; }
+        public string color { get; set; } 
         public double kilometraje { get; set; }
         public string diagnostico { get; set; }
         public List<Empleados> Empleadoss { get; set; }

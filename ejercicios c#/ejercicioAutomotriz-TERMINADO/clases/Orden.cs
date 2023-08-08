@@ -2,7 +2,7 @@ using ejercicioAutomotriz.clases;
 
 public class Orden : Clientes
 {
-    public long numeroOrden { get; set; }
+    public long numeroOrden { get; set; } 
     public long fechaOrden { get; set; }
 
     public Orden(long numeroOrden, long fechaOrden)
@@ -11,7 +11,7 @@ public class Orden : Clientes
         this.fechaOrden = fechaOrden;
     }
 
-    public Orden(){}
+    public Orden(){} 
 
     public Orden agregarOrden()
     {
@@ -89,7 +89,7 @@ public class Orden : Clientes
         Console.Clear();
         Console.WriteLine("-------------------------------------------------------------------------------------");
         Console.WriteLine("------------------------------------ FACTURA ------------------------------------");
-        Console.WriteLine($"         Nro Orden: {this.numeroOrden}               Nro Factura: {this.numeroOrden++}");
+        Console.WriteLine($"         Nro Orden: {this.numeroOrden}               Nro Factura: {this.Clients[0].id}");
         Console.WriteLine($"         Cedula cliente: {this.Clients[0].id}");
         Console.WriteLine("-------------------------- DETALLES DE LA FACTURA --------------------------");
         Console.WriteLine("ITEM\t\tRESPUESTO\t\tVALOR UNIDAD\t\tCANITDAD\t\tVALOR TOTAL");

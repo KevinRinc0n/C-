@@ -33,7 +33,7 @@ namespace ejercicioAutomotriz.clases
             Console.Write("Ingresa la cantidad de este repuesto: ");
             repuestoNuevo.cantidad = int.Parse(Console.ReadLine());
             return repuestoNuevo;
-        }
+        } 
 
         public void mostrarRepuesto(List<Repuesto> Repuestoss)
         {
@@ -41,7 +41,7 @@ namespace ejercicioAutomotriz.clases
             Console.WriteLine("REPUESTO\t\tValor");
             foreach (var repuesto in Repuestoss)
             {
-                Console.WriteLine($"{repuesto.item}\t\t{repuesto.valor}");
+                Console.WriteLine($"\n{repuesto.item}\t\t{repuesto.valor}");
             }
             Console.ReadKey();  
         }
@@ -50,13 +50,13 @@ namespace ejercicioAutomotriz.clases
         {
             Console.Clear();
             mostrarRepuesto(Repuestoss);
-            Console.WriteLine("PON 'A' PARA ACEPTAR EL REPUESTO O 'R' PARA RECHAZARLO ");
+            Console.Write("\nPON 'A' PARA ACEPTAR EL REPUESTO O 'R' PARA RECHAZARLO ");
 
             Repuesto repuestoSeleccionado = null;
 
             foreach (var repuesto in Repuestoss)
             {
-                Console.WriteLine($"Este repuesto es: {repuesto.item}");
+                Console.Write($"\nEste repuesto es {repuesto.item}:");
                 string opcion = Console.ReadLine();
 
                 if (opcion.ToUpper() == "A")

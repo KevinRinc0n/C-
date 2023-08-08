@@ -1,6 +1,6 @@
 namespace ejercicioAutomotriz.clases
 {
-    public class Empleados : Persona
+    public class Empleados : Persona 
     {
         public string especialidad { get; set; }
         public string diagnostico { get; set; }
