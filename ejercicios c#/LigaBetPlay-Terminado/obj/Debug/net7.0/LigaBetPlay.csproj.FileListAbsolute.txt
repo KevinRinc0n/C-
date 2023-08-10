@@ -28,18 +28,33 @@ C:/Users/Nicolas/Desktop/dotNet/LigaBetPlay/obj/Debug/net7.0/refint/LigaBetPlay.
 C:/Users/Nicolas/Desktop/dotNet/LigaBetPlay/obj/Debug/net7.0/LigaBetPlay.pdb
 C:/Users/Nicolas/Desktop/dotNet/LigaBetPlay/obj/Debug/net7.0/LigaBetPlay.genruntimeconfig.cache
 C:/Users/Nicolas/Desktop/dotNet/LigaBetPlay/obj/Debug/net7.0/ref/LigaBetPlay.dll
-D:\Users\Usuario\Desktop\LigaBetPlay\bin\Debug\net7.0\LigaBetPlay.exe
-D:\Users\Usuario\Desktop\LigaBetPlay\bin\Debug\net7.0\LigaBetPlay.deps.json
-D:\Users\Usuario\Desktop\LigaBetPlay\bin\Debug\net7.0\LigaBetPlay.runtimeconfig.json
-D:\Users\Usuario\Desktop\LigaBetPlay\bin\Debug\net7.0\LigaBetPlay.dll
-D:\Users\Usuario\Desktop\LigaBetPlay\bin\Debug\net7.0\LigaBetPlay.pdb
-D:\Users\Usuario\Desktop\LigaBetPlay\obj\Debug\net7.0\LigaBetPlay.csproj.AssemblyReference.cache
-D:\Users\Usuario\Desktop\LigaBetPlay\obj\Debug\net7.0\LigaBetPlay.GeneratedMSBuildEditorConfig.editorconfig
-D:\Users\Usuario\Desktop\LigaBetPlay\obj\Debug\net7.0\LigaBetPlay.AssemblyInfoInputs.cache
-D:\Users\Usuario\Desktop\LigaBetPlay\obj\Debug\net7.0\LigaBetPlay.AssemblyInfo.cs
-D:\Users\Usuario\Desktop\LigaBetPlay\obj\Debug\net7.0\LigaBetPlay.csproj.CoreCompileInputs.cache
-D:\Users\Usuario\Desktop\LigaBetPlay\obj\Debug\net7.0\LigaBetPlay.dll
-D:\Users\Usuario\Desktop\LigaBetPlay\obj\Debug\net7.0\refint\LigaBetPlay.dll
-D:\Users\Usuario\Desktop\LigaBetPlay\obj\Debug\net7.0\LigaBetPlay.pdb
-D:\Users\Usuario\Desktop\LigaBetPlay\obj\Debug\net7.0\LigaBetPlay.genruntimeconfig.cache
-D:\Users\Usuario\Desktop\LigaBetPlay\obj\Debug\net7.0\ref\LigaBetPlay.dll
+D:/Users/Usuario/Desktop/LigaBetPlay/bin/Debug/net7.0/LigaBetPlay.exe
+D:/Users/Usuario/Desktop/LigaBetPlay/bin/Debug/net7.0/LigaBetPlay.deps.json
+D:/Users/Usuario/Desktop/LigaBetPlay/bin/Debug/net7.0/LigaBetPlay.runtimeconfig.json
+D:/Users/Usuario/Desktop/LigaBetPlay/bin/Debug/net7.0/LigaBetPlay.dll
+D:/Users/Usuario/Desktop/LigaBetPlay/bin/Debug/net7.0/LigaBetPlay.pdb
+D:/Users/Usuario/Desktop/LigaBetPlay/obj/Debug/net7.0/LigaBetPlay.csproj.AssemblyReference.cache
+D:/Users/Usuario/Desktop/LigaBetPlay/obj/Debug/net7.0/LigaBetPlay.GeneratedMSBuildEditorConfig.editorconfig
+D:/Users/Usuario/Desktop/LigaBetPlay/obj/Debug/net7.0/LigaBetPlay.AssemblyInfoInputs.cache
+D:/Users/Usuario/Desktop/LigaBetPlay/obj/Debug/net7.0/LigaBetPlay.AssemblyInfo.cs
+D:/Users/Usuario/Desktop/LigaBetPlay/obj/Debug/net7.0/LigaBetPlay.csproj.CoreCompileInputs.cache
+D:/Users/Usuario/Desktop/LigaBetPlay/obj/Debug/net7.0/LigaBetPlay.dll
+D:/Users/Usuario/Desktop/LigaBetPlay/obj/Debug/net7.0/refint/LigaBetPlay.dll
+D:/Users/Usuario/Desktop/LigaBetPlay/obj/Debug/net7.0/LigaBetPlay.pdb
+D:/Users/Usuario/Desktop/LigaBetPlay/obj/Debug/net7.0/LigaBetPlay.genruntimeconfig.cache
+D:/Users/Usuario/Desktop/LigaBetPlay/obj/Debug/net7.0/ref/LigaBetPlay.dll
+/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/LigaBetPlay-Terminado/bin/Debug/net7.0/LigaBetPlay
+/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/LigaBetPlay-Terminado/bin/Debug/net7.0/LigaBetPlay.deps.json
+/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/LigaBetPlay-Terminado/bin/Debug/net7.0/LigaBetPlay.runtimeconfig.json
+/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/LigaBetPlay-Terminado/bin/Debug/net7.0/LigaBetPlay.dll
+/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/LigaBetPlay-Terminado/bin/Debug/net7.0/LigaBetPlay.pdb
+/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/LigaBetPlay-Terminado/obj/Debug/net7.0/LigaBetPlay.csproj.AssemblyReference.cache
+/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/LigaBetPlay-Terminado/obj/Debug/net7.0/LigaBetPlay.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/LigaBetPlay-Terminado/obj/Debug/net7.0/LigaBetPlay.AssemblyInfoInputs.cache
+/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/LigaBetPlay-Terminado/obj/Debug/net7.0/LigaBetPlay.AssemblyInfo.cs
+/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/LigaBetPlay-Terminado/obj/Debug/net7.0/LigaBetPlay.csproj.CoreCompileInputs.cache
+/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/LigaBetPlay-Terminado/obj/Debug/net7.0/LigaBetPlay.dll
+/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/LigaBetPlay-Terminado/obj/Debug/net7.0/refint/LigaBetPlay.dll
+/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/LigaBetPlay-Terminado/obj/Debug/net7.0/LigaBetPlay.pdb
+/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/LigaBetPlay-Terminado/obj/Debug/net7.0/LigaBetPlay.genruntimeconfig.cache
+/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/LigaBetPlay-Terminado/obj/Debug/net7.0/ref/LigaBetPlay.dll

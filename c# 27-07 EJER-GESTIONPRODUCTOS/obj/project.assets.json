@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/arteN01-047/Desktop/c# 27-07 EJER-GESTIONPRODUCTOS/c# 27-07.csproj",
+      "projectUniqueName": "/home/arteN01-047/Desktop/C#/C--5/c# 27-07 EJER-GESTIONPRODUCTOS/c# 27-07.csproj",
       "projectName": "c# 27-07",
-      "projectPath": "/home/arteN01-047/Desktop/c# 27-07 EJER-GESTIONPRODUCTOS/c# 27-07.csproj",
+      "projectPath": "/home/arteN01-047/Desktop/C#/C--5/c# 27-07 EJER-GESTIONPRODUCTOS/c# 27-07.csproj",
       "packagesPath": "/home/arteN01-047/.nuget/packages/",
-      "outputPath": "/home/arteN01-047/Desktop/c# 27-07 EJER-GESTIONPRODUCTOS/obj/",
+      "outputPath": "/home/arteN01-047/Desktop/C#/C--5/c# 27-07 EJER-GESTIONPRODUCTOS/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/arteN01-047/.nuget/NuGet/NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/arteN01-047/Desktop/kevin-rincon/kevin-rincon.csproj",
+      "projectUniqueName": "/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/ejercicio caballo /kevin-rincon.csproj",
       "projectName": "kevin-rincon",
-      "projectPath": "/home/arteN01-047/Desktop/kevin-rincon/kevin-rincon.csproj",
+      "projectPath": "/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/ejercicio caballo /kevin-rincon.csproj",
       "packagesPath": "/home/arteN01-047/.nuget/packages/",
-      "outputPath": "/home/arteN01-047/Desktop/kevin-rincon/obj/",
+      "outputPath": "/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/ejercicio caballo /obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/arteN01-047/.nuget/NuGet/NuGet.Config"
