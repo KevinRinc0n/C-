@@ -1,5 +1,0 @@
-/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.csproj.AssemblyReference.cache
-/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.GeneratedMSBuildEditorConfig.editorconfig
-/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.AssemblyInfoInputs.cache
-/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.AssemblyInfo.cs
-/home/arteN01-047/Desktop/C#/C--5/ejercicios c#/ejercicio Tienda/obj/Debug/net7.0/ejercicio Tienda.csproj.CoreCompileInputs.cache

@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/arteN01-047/.nuget/packages/": {}
+    "/home/apolt01-023/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/arteN01-047/Desktop/C#/C--5/c# 19-07/proyecto/proyecto.csproj",
+      "projectUniqueName": "/home/apolt01-023/Desktop/C--1/c# 19-07/proyecto/proyecto.csproj",
       "projectName": "proyecto",
-      "projectPath": "/home/arteN01-047/Desktop/C#/C--5/c# 19-07/proyecto/proyecto.csproj",
-      "packagesPath": "/home/arteN01-047/.nuget/packages/",
-      "outputPath": "/home/arteN01-047/Desktop/C#/C--5/c# 19-07/proyecto/obj/",
+      "projectPath": "/home/apolt01-023/Desktop/C--1/c# 19-07/proyecto/proyecto.csproj",
+      "packagesPath": "/home/apolt01-023/.nuget/packages/",
+      "outputPath": "/home/apolt01-023/Desktop/C--1/c# 19-07/proyecto/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/arteN01-047/.nuget/NuGet/NuGet.Config"
+        "/home/apolt01-023/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
       }
     }
   }
